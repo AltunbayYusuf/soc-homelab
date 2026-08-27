@@ -1,0 +1,13 @@
+# VirtualBox
+*.vdi
+*.vbox
+*.vbox-prev
+*.vbox-extpack
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
