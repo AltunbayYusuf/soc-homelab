@@ -8,7 +8,7 @@ Built as a portfolio project while finishing my cybersecurity studies.
 
 ## Status
 
-🚧 Early build-out — DC01 (domain controller) is up.
+🚧 Early build-out — DC01 (domain controller) is up, WS01 is domain-joined.
 
 ## Architecture
 
@@ -26,6 +26,7 @@ Hypervisor: VirtualBox. Full network diagram and IP plan in
 
 - [00-architecture.md](docs/00-architecture.md) — network design, IP plan, VM specs
 - [01-dc01-setup.md](docs/01-dc01-setup.md) — domain controller build (AD DS, DNS, audit policy)
+- [02-ws01-setup.md](docs/02-ws01-setup.md) — Windows 11 client build and domain join
 
 ## Roadmap
 

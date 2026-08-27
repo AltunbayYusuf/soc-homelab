@@ -26,7 +26,7 @@ off the host's real LAN.
 | Host | IP | Notes |
 |------|----|----|
 | DC01 | 10.10.10.10 | static, also the DNS server for the domain |
-| WS01 | TBD | static or DHCP scoped from DC01 |
+| WS01 | 10.10.10.20 | static, domain-joined to lab.internal |
 | SIEM01 | TBD | static |
 | ATK01 | TBD | static |
 
